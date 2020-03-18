@@ -1,2 +1,2 @@
 # git-github
-This is for learning putpose.
+This is for learning purpose.
